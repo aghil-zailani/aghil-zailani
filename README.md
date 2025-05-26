@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="C:\Users\Aghil\OneDrive\Desktop\aghil-zailani\github-header-image.png" alt="hi" width="500" />
-</div>
+![Header](./github-header-image.png)
 
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm5wbGI3Z3FyZ25oOGYzcXZzemhpajE1NWMzbzBjNW1rZDBlZTJuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASy3PKVFnk7ZK/giphy.gif" alt="hi" width="500" />
