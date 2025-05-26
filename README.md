@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm5wbGI3Z3FyZ25oOGYzcXZzemhpajE1NWMzbzBjNW1rZDBlZTJuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASy3PKVFnk7ZK/giphy.gif" alt="hi" width="700" />
+  <img src="C:\Users\Aghil\OneDrive\Desktop\aghil-zailani\github-header-image.png" alt="hi" width="500" />
 </div>
 
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm5wbGI3Z3FyZ25oOGYzcXZzemhpajE1NWMzbzBjNW1rZDBlZTJuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASy3PKVFnk7ZK/giphy.gif" alt="hi" width="500" />
+</div>
 
-
-<h1 align="center">Hi, I'm T. Said Aghil Zailani</h1>
-<h4 align="center" style="color:grey">Nice Too Meet You!</h4>
 
 
 ---
